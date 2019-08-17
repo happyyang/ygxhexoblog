@@ -8,7 +8,7 @@ subtitle: 探索技术的乐趣
 description: 技术是一个很奥的词，它深不见底亦广阔无垠，任你我翱翔其中，乐在其中
 keywords: 分布式系统，网络原理，编程语言，web服务，前端技术，操作系统
 author: 杨高兴
-language: 
+language: zh-Hans
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: concise
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
