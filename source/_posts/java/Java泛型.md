@@ -1,7 +1,11 @@
 ---
 title: Java泛型
 date: 2019-08-17 09:53:16
-tags: java
+comments: true
+categories:
+- java 基础
+tags: 
+- 泛型
 ---
 
 # Java泛型
