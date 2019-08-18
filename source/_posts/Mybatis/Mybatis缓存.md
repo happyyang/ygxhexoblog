@@ -3,8 +3,8 @@ title: Mybatis 缓存机制
 date: 2019-08-18 16:44:06
 comments: true
 categories:
-- Mybatis
 - ORM
+- Mybatis
 tags:
 - Mybatis 缓存
 ---

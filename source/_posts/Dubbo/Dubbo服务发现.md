@@ -3,8 +3,8 @@ title: Dubbo 服务发现
 date: 2019-08-18 16:42:11
 comments: true
 categories:
-- Dubbo
 - 分布式框架
+- Dubbo
 tags:
 - Dubbo 服务发现
 ---

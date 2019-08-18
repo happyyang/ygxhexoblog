@@ -3,8 +3,8 @@ title: Mybatis 映射机制
 date: 2019-08-18 16:43:42
 comments: true
 categories:
-- Mybatis
 - ORM
+- Mybatis
 tags:
 - Mybatis 映射机制
 ---

@@ -3,8 +3,8 @@ title: Mybatis 基础
 date: 2019-08-18 16:43:04
 comments: true
 categories:
-- Mybatis
 - ORM
+- Mybatis
 tags:
 - Mybatis 基础
 ---

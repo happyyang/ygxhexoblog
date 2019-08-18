@@ -3,8 +3,7 @@ title: Spring AOP机制
 date: 2019-08-18 16:46:28
 comments: true
 categories:
-- Spring
-- AOP
+- Spring AOP
 tags:
 - Spring 基础
 ---

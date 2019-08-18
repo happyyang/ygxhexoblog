@@ -3,8 +3,8 @@ title: Dubbo框架原理
 date: 2019-08-18 16:41:26
 comments: true
 categories:
-- Dubbo
 - 分布式框架
+- Dubbo
 tags:
 - Dubbo 框架
 ---
